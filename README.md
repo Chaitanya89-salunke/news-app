@@ -16,7 +16,3 @@ NewsApp is a dynamic news aggregator that fetches and displays real-time news ar
 - JavaScript (ES6+)  
 - NewsAPI  
 
-## 🔧 Setup & Usage  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Riddhi256/NewsApp.git
