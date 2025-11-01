@@ -1,4 +1,4 @@
-const API_KEY = "684246b0f382f382b98a58f8f35d39b7";
+const API_KEY = "ce49146f9112480b9b7c52a83bf878c8";
 const url = "https://newsapi.org/v2/everything?q=";
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -74,4 +74,5 @@ document.querySelectorAll(".pagination button").forEach((button) => {
         alert("Pagination feature coming soon!");
     });
 });
+
 
